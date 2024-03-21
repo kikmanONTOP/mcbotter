@@ -82,8 +82,8 @@ for (let i = 0; i < numBots; i++) {
         botUsernames.add(botUsername);
 
         const bot = mineflayer.createBot({
-            host: 'wertelite.mc-server.eu', // replace it with ip adress of server
-            port: 30115, // replace it with port of server
+            host: 'here ip', // replace it with ip adress of server
+            port: here port, // replace it with port of server
             username: botUsername,
         });
 
